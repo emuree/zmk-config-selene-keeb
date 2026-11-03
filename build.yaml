@@ -18,3 +18,10 @@
 #     artifact-name: corne_left_with_studio
 #
 ---
+include:
+  - board: nice_nano//zmk
+    shield: selene_left
+    artifact-name: selene_left
+  - board: nice_nano//zmk
+    shield: selene_right
+    artifact-name: selene_right
